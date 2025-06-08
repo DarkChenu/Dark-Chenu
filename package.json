@@ -1,10 +1,10 @@
 {
-  "name": "Manu-MD-V8",
+  "name": "Darkz-MD-V8",
   "version": "8.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name Manu-MD-V8",
+    "start": "pm2 start start.js --deep-monitoring --attach --name Darkz-MD-V8",
     "stop": "pm2 stop Manu-MD-V8",
     "restart": "pm2 restart Manu-MD-V8"
   },
